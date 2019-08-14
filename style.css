@@ -197,6 +197,7 @@ input[type="radio"].visually-hidden {
     position: relative;
 
     padding-left: 50px;
+    cursor: pointer;
 }
 
 .login-link::before {
